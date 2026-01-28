@@ -1,0 +1,7 @@
+{
+  "name": "Advanced Bengali & English TTS Generator",
+  "description": "A production-ready TTS application using ElevenLabs API with batch processing, language detection, and AI-powered voice optimization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
